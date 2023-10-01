@@ -1,0 +1,4 @@
+Ini isi file text.txt
+
+
+ini ada di branch master
